@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+}
+
+.primary {
+  margin: 8px;
+  border: none;
+  font-size: 1rem;
+  font-weight: bold;
+  color: black;
+  border: 1px solid;
+  padding: 9px;
+  width: 300px;
+}
